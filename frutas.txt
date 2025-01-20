@@ -1,6 +1,6 @@
 Banana
-Naranja
-Fresa
-Piña
-Mango
 Durazno
+Fresa
+Mango
+Naranja
+Piña
